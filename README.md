@@ -1,4 +1,4 @@
-# Cloud and Clear - Infrastructure Templates
+# Cloud and Clear UK - Infrastructure Templates
 
 Welcome to the official repository for [Cloud and Clear UK](https://cloudandclear.uk) blog's infrastructure-as-code templates, patterns, and examples. This repository serves as a practical companion to the blog posts, allowing you to quickly deploy and test the solutions discussed.
 
